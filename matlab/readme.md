@@ -1,7 +1,7 @@
 # Numerical problems in MATLAB
 Please do note that some strings, source code and/or explanations are in Romanian!
 
-### aproxsin.m - Approximation of the sin function using series
+### aproxsin.m - Approximation of the sin function using Taylor series
 
 ### ts.m, tpp.m, tpt.m - Direct determined algebraic system solving methods
 Using simple, partial, total triangulation, respectively

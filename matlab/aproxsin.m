@@ -1,4 +1,4 @@
-%APROXIMAREA sin CU SERII FOURIER
+%APROXIMAREA sin CU SERII TAYLOR
 
 rel = 1;
 while rel==1
